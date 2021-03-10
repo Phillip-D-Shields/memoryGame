@@ -1,0 +1,10 @@
+Z:\NMIT\dat602-game\memoryGame\bin\Debug\memoryGame.exe.config
+Z:\NMIT\dat602-game\memoryGame\bin\Debug\memoryGame.exe
+Z:\NMIT\dat602-game\memoryGame\bin\Debug\memoryGame.pdb
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.csprojAssemblyReference.cache
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.Form1.resources
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.Properties.Resources.resources
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.csproj.GenerateResource.cache
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.csproj.CoreCompileInputs.cache
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.exe
+Z:\NMIT\dat602-game\memoryGame\obj\Debug\memoryGame.pdb
